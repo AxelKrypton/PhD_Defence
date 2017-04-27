@@ -1,5 +1,5 @@
 # PhD_Defence
-[This](Defence.pdf) is the presentation of my Ph.D. defence, which took place at J. W. Goethe Universität (Frankfurt am Main) on 21/04/2017.
+[This](https://github.com/AxelKrypton/PhD_Defence/releases/download/presented/Defence.pdf) is the presentation of my Ph.D. defence, which took place at J. W. Goethe Universität (Frankfurt am Main) on 21/04/2017.
 If you are interested in knowing more about the work, my Ph.D. thesis is also [available](https://github.com/AxelKrypton/PhD_Thesis).
 
 ## Additional information
